@@ -21,6 +21,7 @@ public class Main {
     final public static long TIME = 10000L;
     final private static Logger LOGGER = Logger.getLogger(Main.class.getName());
     private static boolean isRestart = false;
+
     public static void main(String[] args) {
         LOGGER.setLevel(Level.ALL);
         if (args.length==0 || args.length>1){

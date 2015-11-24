@@ -1,37 +1,17 @@
-<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE log SYSTEM "logger.dtd">
 <log>
 <record>
-  <date>2015-07-25T11:35:09</date>
-  <millis>1437813309578</millis>
+  <date>2015-11-23T22:50:33</date>
+  <millis>1448311833533</millis>
   <sequence>0</sequence>
   <logger>ua.my.ukrnetdump.core.Parse</logger>
   <level>INFO</level>
   <class>ua.my.ukrnetdump.core.Parse</class>
   <method>getNewsText</method>
-  <thread>13</thread>
-  <message>Erroe msg=errer url Url=http://telegraf.com.ua/zhizn/zhurnal/1991651-druzya-samyie-populyarnyie-gosti-seriala-foto.html</message>
-</record>
-<record>
-  <date>2015-07-25T11:35:17</date>
-  <millis>1437813317500</millis>
-  <sequence>1</sequence>
-  <logger>ua.my.ukrnetdump.core.Parse</logger>
-  <level>INFO</level>
-  <class>ua.my.ukrnetdump.core.Parse</class>
-  <method>getNewsText</method>
-  <thread>13</thread>
-  <message>Erroe msg=errer url Url=http://telegraf.com.ua/zhizn/zhurnal/1991577-sborka-zabavnyih-foto-prikolov-dlya-horoshego-nastroeniya.html</message>
-</record>
-<record>
-  <date>2015-07-25T11:35:27</date>
-  <millis>1437813327953</millis>
-  <sequence>2</sequence>
-  <logger>ua.my.ukrnetdump.core.Parse</logger>
-  <level>INFO</level>
-  <class>ua.my.ukrnetdump.core.Parse</class>
-  <method>getNewsText</method>
-  <thread>13</thread>
-  <message>Erroe msg=errer url Url=http://telegraf.com.ua/puteshestviya/1991001-udivitelnyie-peshehodnyie-marshrutyi-po-kotoryim-hochetsya-proytis-foto.html</message>
+  <thread>1</thread>
+  <message>Erroe msg=errer url
+    Url=http://telegraf.com.ua/zhizn/zdorove/2176031-kak-navsegda-otkazatsya-ot-sladostey.html
+  </message>
 </record>
 </log>

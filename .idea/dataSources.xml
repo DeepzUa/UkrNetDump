@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1102894792">
-    <data-source source="LOCAL" name="SQLite -" uuid="80ad48f1-121b-4370-8f8d-ebe131997a97">
+  <component name="DataSourceManagerImpl" format="xml" hash="2020397028">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - dataSave.db" uuid="f98e1db9-b831-4705-af53-1598d89ecc02">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/core/db/dataSave.db</jdbc-url>
-      <libraries />
     </data-source>
   </component>
 </project>
